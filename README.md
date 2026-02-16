@@ -1,8 +1,8 @@
 Simple Shell User Manual
 ========================
 Author: Evan Tome
+
 Date: 02/13/2026
-========================
 
 Overview
 --------
